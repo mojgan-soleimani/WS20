@@ -13,6 +13,7 @@
  > Hoton-Nur basin is presented by cold-tolerant steppe vegetation and often intercalated with kobresian and sedge communities."
   ### data provided by [Pangea](https://doi.pangaea.de/10.1594/PANGAEA.914880).
   ### [citation](https://doi.org/10.1016/j.quascirev.2008.10.013)
+  ### [zip] (https://doi.pangaea.de/10.1594/PANGAEA.914880?format=zip)
  
  ## /* *__Planktic foraminiferal stable oxygen isotopes of Globigerinoides ruber and Mg/Ca sea surface temperature reconstructions of sediment core RAPID-21-12B from Gardar Drift over the last 230 years__*
  ### **Description**:
