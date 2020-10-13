@@ -13,7 +13,7 @@
  > (above 205 cm) with a touch of organic matter. Vegetational cover of the eastern and northern parts of the  
  > Hoton-Nur basin is presented by cold-tolerant steppe vegetation and often intercalated with kobresian and sedge communities."
   ### [data documentation](https://doi.pangaea.de/10.1594/PANGAEA.914880).
-  ### [raw data] (https://doi.pangaea.de/10.1594/PANGAEA.914880?format=zip)
+  ### [raw data](https://doi.pangaea.de/10.1594/PANGAEA.914880?format=zip)
   ### [citation](https://doi.org/10.1016/j.quascirev.2008.10.013)
   
  
