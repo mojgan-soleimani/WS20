@@ -4,7 +4,7 @@
  >_"Using our new and published data on the distribution of A. setosa in plankton, sediment trap, surface sediment  
  > and downcore samples, we provide a quantitative ecological context for the occurrence of this species."_
  ### [data documentation](https://doi.pangaea.de/10.1594/PANGAEA.923111)
-### [raw data](https://doi.pangaea.de/10.1594/PANGAEA.923111?format=zip)
+### [raw data](https://doi.pangaea.de/10.1594/PANGAEA.923061?format=textfile)
  ### [citation](https://doi.org/10.1016/j.quascirev.2020.106565)
  
  ## /* *__Age-depth relation of sediment core Hoton-2 from Hoton-Nur Lake (Khoton Nuur), Mongolian Altai, Mongolia.__*
@@ -13,7 +13,7 @@
  > (above 205 cm) with a touch of organic matter. Vegetational cover of the eastern and northern parts of the  
  > Hoton-Nur basin is presented by cold-tolerant steppe vegetation and often intercalated with kobresian and sedge communities."_
   ### [data documentation](https://doi.pangaea.de/10.1594/PANGAEA.914880).
-  ### [raw data](https://doi.pangaea.de/10.1594/PANGAEA.914880?format=zip)
+  ### [raw data](https://doi.pangaea.de/10.1594/PANGAEA.914878?format=textfile)
   ### [citation](https://doi.org/10.1016/j.quascirev.2008.10.013)
   
  
@@ -25,6 +25,6 @@
  > speed record leads by 15–20 years. These records reveal a decadal‐scale coupling between surface and deep ocean variability  
  > over the past 230 years, possibly driven by the North Atlantic Oscillation, with implications for North Atlantic circulation and climate"._
  ### [data documentation](https://doi.org/10.1594/PANGAEA.899434)
- ### [raw data](https://doi.org/10.1594/PANGAEA.899434?format=zip)
+ ### [raw data](https://doi.org/10.1594/PANGAEA.899434?format=textfile)
  ### [citation](https://doi.org/10.1029/2009PA001886)
  
